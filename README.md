@@ -25,7 +25,7 @@ How to write a spec, and what may and may not go in one: [CONTRIBUTING.md](CONTR
 
 ## Status
 
-No spec has been written yet. Each folder's index lists the planned specs and their state.
+One spec exists so far: the MST archive. Each folder's index lists the planned specs and their state.
 
 ## Develop
 
