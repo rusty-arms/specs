@@ -1,0 +1,4 @@
+# The admins team reviews everything. .github/ is listed explicitly: changes
+# there need an admin's approval and must never be approved by an agent.
+*          @rusty-arms/admins
+/.github/  @rusty-arms/admins
