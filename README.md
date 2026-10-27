@@ -41,4 +41,5 @@ Agent sessions get the clean-room guard and the session rules from the [agent-ki
 
 ## Licence
 
-MIT OR Apache-2.0, at your option: [LICENSE-MIT](LICENSE-MIT), [LICENSE-APACHE](LICENSE-APACHE).
+- Specs, templates and other documentation: [CC BY 4.0](LICENSE).
+- Scripts and configuration (`scripts/`, `.githooks/`, `.github/`, `.claude/`): [MIT](LICENSE-CODE).
