@@ -2,7 +2,7 @@
 
 One spec per format, written from the owner's disc and allowed public docs. Start from [the format template](../templates/format.md). Rules: [CONTRIBUTING.md](../CONTRIBUTING.md).
 
-The planned list comes from the research brief's public knowledge (core's `docs/research/brief.md`, section 6). Only the MST archive has been observed so far.
+The planned list comes from the research brief's public knowledge (core's `docs/research/brief.md`, section 6). So far the MST archive and the binary CSV tables have been observed.
 
 | Format | Spec | Status | Public leads |
 |---|---|---|---|
@@ -12,7 +12,7 @@ The planned list comes from the research brief's public knowledge (core's `docs/
 | Meshes | None yet | Not started | None public |
 | Worlds | None yet | Not started | DJs_MA_TOOLs edits them in part |
 | Animations | None yet | Not started | None public |
-| Binary CSV tables | None yet | Not started | DJs_MA_TOOLs converts them to and from JSON |
+| Binary CSV tables: keyed rows of typed fields | [binary-csv.md](binary-csv.md) | Observed (two items Lead) | DJs_MA_TOOLs (MIT) converts them to and from text |
 | Fonts | None yet | Not started | None public |
 | AMX bytecode scripts | None yet | Not started | DJs_MA_TOOLs has an experimental disassembler; the scripts are written in Small, now called Pawn |
 | AI node graphs | None yet | Not started | None public |
