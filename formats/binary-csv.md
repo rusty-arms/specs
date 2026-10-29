@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| Status | Observed (two leads not seen on the disc are marked Lead) |
+| Status | Lead (mostly Observed; three items not seen on the disc are marked Lead) |
 | Byte order | Big-endian on GameCube |
 | Where it lives | MST archive entries whose type is `csv`. See [mst-archive.md](mst-archive.md). |
 | Provenance | Core provenance log, 2026-10-28 entries titled "Binary CSV …": [header](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-table-header), [row directory](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-row-directory), [keys](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-row-keys), [fields](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-field-records-and-types), [numbers](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-numbers), [strings](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-narrow-strings), [wide strings](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-wide-strings), [layout](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-layout-and-padding), [variation](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-variation-between-tables), [byte order](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-byte-order), [rebuild](https://github.com/rusty-arms/core/blob/main/docs/provenance-log.md#2026-10-28-binary-csv-byte-for-byte-rebuild) |

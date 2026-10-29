@@ -12,7 +12,7 @@ The planned list comes from the research brief's public knowledge (core's `docs/
 | Meshes | None yet | Not started | None public |
 | Worlds | None yet | Not started | DJs_MA_TOOLs edits them in part |
 | Animations | None yet | Not started | None public |
-| Binary CSV tables: keyed rows of typed fields | [binary-csv.md](binary-csv.md) | Observed (two items Lead) | DJs_MA_TOOLs (MIT) converts them to and from text |
+| Binary CSV tables: keyed rows of typed fields | [binary-csv.md](binary-csv.md) | Lead (mostly Observed) | DJs_MA_TOOLs (MIT) converts them to and from text |
 | Fonts | None yet | Not started | None public |
 | AMX bytecode scripts | None yet | Not started | DJs_MA_TOOLs has an experimental disassembler; the scripts are written in Small, now called Pawn |
 | AI node graphs | None yet | Not started | None public |
